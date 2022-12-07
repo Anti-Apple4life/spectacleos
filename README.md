@@ -20,7 +20,7 @@ You can use curl to download the repo.
 ### Linux and Others
 To install Python, you can use `apt` or your standard package manager.
 
-`sudo apt install python3`, `sudo yay -S python3`, `sudo yum -S python3`, etc.
+`sudo apt install python3`, `sudo yay -S python3`, `sudo yum install python3`, etc.
 
 `wget -O spectacleos.zip https://github.com/aarikpokras/aarikpokras.github.io/raw/main/spectacleos-phoenix-v2.2.0.zip`
 ## Running
